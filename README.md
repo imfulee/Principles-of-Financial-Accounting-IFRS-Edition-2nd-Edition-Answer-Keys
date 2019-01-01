@@ -15,11 +15,13 @@ CYCLE
 5. Internal Controls and Cash
 
 PART II: OPERATING ACTIVITIES
+
 6. Receivables
 7. Inventory and the Cost of Sales
 8. Completing the Operating Cycle
 
 PART III: INVESTING AND FINANCING ACTIVITIES
+
 9. Investments: Property, Plant, and Equipment and
 Intangible Assets
 10. Financing: Long-Term Liabilities
@@ -27,6 +29,7 @@ Intangible Assets
 12. Investments: Debt and Equity Securities
 
 PART IV: OTHER DIMENSIONS OF FINANCIAL REPORTING
+
 13. Statement of Cash Flows
 14. Analyzing Financial Statements
 
