@@ -3,6 +3,7 @@ Principles of Financial Accounting, IFRS Edition 2nd Edition Answer Keys
 
 Author:
 Earl K. Stice | James D. Stice | W. Steve Albrecht | Monte R. Swain | Rong-Ruey Duh | Audrey Wenhsin Hsu 
+
 ISBN-13: 9789814780674 | ISBN-10: 9814780677 
 
 PART I: FINANCIAL REPORTING AND THE ACCOUNTING
